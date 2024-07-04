@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+folium
+imageio
+tqdm
+geopandas
+geoplot
+mapclassify
+statsmodels
+scipy
+seaborn
